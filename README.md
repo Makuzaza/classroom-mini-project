@@ -11,4 +11,4 @@ Here's a description of what each function should do:
 
 All the functions receive an array of grades. Each grade is of type number (it has already been converted to a number using Number.parseInt). But, you still need to provide the parameter type for each function.
 
-Also I added a clear button to implement functionality to clear all grades when this button is clicked.
+### Also I added a clear button to implement functionality to clear all grades when this button is clicked.
